@@ -4,8 +4,8 @@
 }
 
 .bar1, .bar2, .bar3 {
-  width: 35px;
-  height: 5px;
+  width: 32px;
+  height: 7px;
   background-color: #333;
-  margin: 6px 0;
+  margin: 3px 0;
 }
